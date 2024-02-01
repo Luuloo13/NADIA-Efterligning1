@@ -2,3 +2,14 @@
     color: rgb(42, 42, 42);
     padding-left: 95%;
 }
+
+
+.topnav{
+    background-color: #779882;
+    height: 40px;
+}
+
+.burger-menu{
+    padding-left: 95%;
+    position: relative; top:4px;
+}
